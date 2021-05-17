@@ -1,0 +1,8 @@
+body { font-family :'나눔고딕', 'Malgun Gothic', sans-serif;}
+.font{
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'Ubuntu', 'Nanum Myeongjo', serif;
+  }
